@@ -1,3 +1,3 @@
 # bookish-octo-adventure
-Good stuff resides here!
-This is my first repo
+#Good stuff resides here!
+print("Tis is my fisrt repo.")
